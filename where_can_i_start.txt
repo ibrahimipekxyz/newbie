@@ -1,0 +1,39 @@
+"Where can I start programming?"
+
+Actually, there is not a single answer to this question. Depending on what you want to do with the programming, you determine 
+where you need to start. There are four basic ways for this to happen;
+
+1- Mobile Programming
+2- Web Programming
+3- System Programming
+4- Game Programming
+
+You do not have to choose a way, you can choose all the ways and find a language according to it.There are now hundreds 
+of programming languages, which one should we choose?
+
+1) There are only 3 options for "Mobile Programming": Android, iOS or Windows Phone? I do not think it's ridiculous that the 
+third one is listed on Windows Phone because it is not used much. On these platforms you can get the necessary Programs to 
+start writing applications (Android Studio / xCode)
+
+2) If you chose the "Web Programming" way, your job is simple. The languages you need to learn are: HTML - CSS 
+(these are not programming languages), JavaScript and PHP. PHP can actually come in Python, Java, or any other language, 
+but it's much more sensible to choose PHP with the latest releases and the accompanying documentation.
+And as I said, there are a lot of languages that can be used in place of PHP, and even an advanced website can be written 
+using C++ and CGI.
+
+3) If you ask me for "system programming", I can say to you: Programming with Operating Systems, PLC programming, 
+Microcontroller-PIC programming are the programs written down to the basis of the computer system. This category includes 
+Assembly (Any processor architecture), C, C++, Fortran etc. languages are on the foreground.
+
+4) Game programming is based on game motors and things called "object-based programming". Two-dimensional and 
+three-dimensional computer games predict that the form of construction is slightly different. The languages that stand out for 
+this category are; C++, C# (I do not recommend this, do not do it! I'm not a Microsoft slave!), JavaScript, Python, Java 
+etc.. But I recommend you to not spend all your might on game programming, computer games are just to relax!
+
+Resources to will you read:
+
+[1] http://www.0wikipedia.org/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQ29tcHV0ZXJfc2NpZW5jZQ (For countries where access is not permitted)
+[2] https://www.youtube.com/watch?v=2zYxob1__iM
+etc..
+
+This article was written by Ibraham IPEK, but you can share this file with anyone without permission.
